@@ -2,3 +2,4 @@ streamlit
 pandas
 bcrypt
 joblib
+scikit-learn
