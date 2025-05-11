@@ -1,5 +1,9 @@
-streamlit 
+streamlit
 pandas
-bcrypt
+numpy
 joblib
 scikit-learn
+matplotlib
+seaborn
+bcrypt
+sqlite3
