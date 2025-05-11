@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f2f6;
+}
+h1 {
+    color: #1e3a8a;
+    text-align: center;
+}
+.stButton>button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.stButton>button:hover {
+    background-color: #1e40af;
+}
+.stTextInput>div>input {
+    border: 2px solid #2563eb;
+    border-radius: 5px;
+}
