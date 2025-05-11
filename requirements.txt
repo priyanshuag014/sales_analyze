@@ -6,4 +6,3 @@ scikit-learn
 matplotlib
 seaborn
 bcrypt
-sqlite3
